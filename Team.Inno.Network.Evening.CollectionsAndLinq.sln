@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team.Inno.Network.Evening.CollectionsAndLinq", "Team.Inno.Network.Evening.CollectionsAndLinq\Team.Inno.Network.Evening.CollectionsAndLinq.csproj", "{9C1486B9-BC61-4D17-A982-ADED03D09664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team.Inno.Network.Evening.CollectionsAndLinq.Tests", "Team.Inno.Network.Evening.CollectionsAndLinq.Tests\Team.Inno.Network.Evening.CollectionsAndLinq.Tests.csproj", "{99B429B2-0817-4702-A032-36FA3F495C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1486B9-BC61-4D17-A982-ADED03D09664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1486B9-BC61-4D17-A982-ADED03D09664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1486B9-BC61-4D17-A982-ADED03D09664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1486B9-BC61-4D17-A982-ADED03D09664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B429B2-0817-4702-A032-36FA3F495C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B429B2-0817-4702-A032-36FA3F495C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B429B2-0817-4702-A032-36FA3F495C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B429B2-0817-4702-A032-36FA3F495C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDCD513-8476-494D-94C4-B9AF217C32AE}
+	EndGlobalSection
+EndGlobal
