@@ -13,9 +13,9 @@ public static class InventoryManager
     /// <returns>The total number of damaged items.</returns>
     public static int CountDamagedItems(List<PlayerItem> items, int threshold)
     {
-        // ToDo: write your LINQ query here
+        // ToDo: write your code here
 
-        return 0;
+        throw new NotImplementedException();
     }
 
     /// <summary>
@@ -26,9 +26,9 @@ public static class InventoryManager
     /// <returns>A list of item names, sorted by ascending durability.</returns>
     public static List<string> GetNamesOfItemsToRepair(List<PlayerItem> items, int minDurability)
     {
-        // ToDo: write your LINQ query here
+        // ToDo: write your code here
 
-        return new List<string>();
+        throw new NotImplementedException();
     }
 
     /// <summary>
@@ -39,9 +39,9 @@ public static class InventoryManager
     /// <returns>The total combined durability for that item type.</returns>
     public static int GetTotalDurabilityByType(List<PlayerItem> items, string itemType)
     {
-        // ToDo: write your LINQ query here.
+        // ToDo: write your code here
 
-        return 0;
+        throw new NotImplementedException();
     }
 
     /// <summary>
@@ -51,8 +51,8 @@ public static class InventoryManager
     /// <returns>The name of the item type with the lowest total durability.</returns>
     public static string GetTypeWithLowestTotalDurability(List<PlayerItem> items)
     {
-        // ToDo: write your LINQ query here
+        // ToDo: write your code here
 
-        return string.Empty;
+        throw new NotImplementedException();
     }
 }
